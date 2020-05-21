@@ -1,0 +1,267 @@
+body{
+    width: 1440px;
+    
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { color: hsl(228, 45%, 44%); 
+}
+.texth1{
+  font-family:'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+   
+}
+
+.bg-img{
+    width: 105%;
+    margin:0;
+    border:0;
+    padding: 0;
+}
+
+/*CELE 4 CONTAINERE !!!!!!!!!   */
+
+
+
+.container1{
+  width: 100%;
+  height: 500px;
+ 
+}
+.container2{
+    background-color:hsl(240, 75%, 98%);
+    width:110%;
+    height: 700px;
+    margin-top:0;
+    padding-top: 0;
+    position: relative;
+    bottom:30px;
+}
+.container3{
+    background-color:hsl(238, 22%, 44%);
+    width:110%;
+    height: 300px;
+    margin-top:0;
+    padding-top: 0;
+    position: relative;
+    bottom:55px;
+}
+.container4{
+    background-color: hsl(243, 87%, 12%);
+    width :110%;
+    height: 350px;
+    margin-top:0;
+    padding-top: 0;
+    position: relative;
+    bottom:55px;
+    color: white;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+
+/* CONTAINER 1234 EDITARE  !!!!!!!!! */
+.imgLogo{
+    padding-left: 70px;
+    padding-top: 40px;
+}
+nav{
+    position: relative;
+    float: right;
+    padding-right: 65px;
+    text-align: center;
+    margin: 20px 0 0 ;
+    padding: 10px 0;
+}
+nav ul{
+    list-style: none;
+  margin: 0 2px;
+  padding: 0;
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px 20px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    
+}
+
+
+.firstText{
+    width: 35%;
+    height:300px;
+    padding-left: 70px;
+    padding-top: 70px;
+}
+
+
+.img-container1{
+    width:500px;
+    height: 400px;
+    position: absolute;
+    right: 130px;
+    top:100px;
+}
+
+
+
+.img-container2{
+    width:500px;
+    height: 400px;
+    position: absolute;
+    right: 130px;
+    top:35px;
+}
+
+#firstInput{
+    height: 35px;
+    box-sizing: border-box;
+}
+
+
+.secondText{
+    width: 35%;
+    height:300px;
+    padding-left: 70px;
+    padding-top: 10px;
+}
+.text-testimonial{
+   background-color: white;
+    width: 23%;
+    height: 200px;
+   position: relative;
+   left: 70px;
+   box-shadow: 2px 2px 5px grey;;
+
+}
+.avatar{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    float: left;
+
+}
+#avatarpara{
+    font-size: 12px;
+    position: relative;
+    bottom: 10px;
+}
+.TestiAvatar{
+    position: relative;
+    left: 40px;
+}
+#img-quote{
+    position: relative;
+    left:40px;
+    top:15px;
+
+}
+.leftC3{
+    width: 32%;
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding-left: 70px;
+    padding-top: 90px;
+}
+
+
+
+#secondInput{
+    height: 35px;
+    box-sizing: border-box;
+}
+.MailClass{
+    width: 32%;
+    position: absolute;
+    bottom: 120px;
+    right: 100px;
+}
+
+.last1{
+   
+   width: 30%;
+   height: 350px;
+   padding-top:100px;
+   padding-left: 70px;
+}
+.last2{
+    
+    width: 35%;
+   height: 350px;
+   position: relative;
+   bottom:365px;
+   left: 450px;
+}
+.last3{
+    
+    width: 30%;
+    height: 350px;
+    position: relative;
+    bottom:715px;
+   left: 1000px;
+}
+.lastLogo{
+    filter: brightness(0) invert(1);
+    
+}
+
+table, td, th {  
+    border: 0px solid #ddd;
+    text-align: left;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+    
+  }
+
+  a{
+      color:white;
+      text-decoration: none;
+  }
+
+  .fa-facebook {
+    
+    color: white;
+  }
+
+  .fa-twitter {
+    
+    color: white;
+  }
+  .fa-instagram {
+    
+    color: white;
+  }
+
+  .fa {
+    
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .footer{
+      position: relative;
+    
+  }
